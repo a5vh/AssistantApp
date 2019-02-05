@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Assistant App</string>
+    <string name="Open">Open</string>
+    <string name="Closed">Closed</string>
 </resources>
