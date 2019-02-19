@@ -45,7 +45,7 @@ public class MainActivity extends AppCompatActivity {
                 switch (id)
                 {
                     case R.id.goals:
-                        Toast.makeText(MainActivity.this, "My Goals", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(MainActivity.this, "My Ok", Toast.LENGTH_SHORT).show();
                         break;
                     case R.id.routes:
                         Toast.makeText(MainActivity.this, "My Routes", Toast.LENGTH_SHORT).show();
